@@ -36,7 +36,7 @@
 
 ###  另请参阅
 
-*   [mkvtool](mkvtool.md) - MKV 工具 - 管理 mkv 文件的多功能工具
+*   [mkvtool](mkvtool-zh-CN-translation.md) - MKV 工具 - 管理 mkv 文件的多功能工具
 
 ###### 由 spf13/cobra 于 2024 年 6 月 16 日自动生成
 
