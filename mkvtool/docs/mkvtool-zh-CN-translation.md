@@ -25,16 +25,16 @@ MKV Tool 是一个全面的实用程序，用于创建、转储、制作、查�
 
 ###  另请参阅
 
-*   [mkvtool cache](mkvtool_cache.md) - 创建字体缓存
-*   [mkvtool completion](mkvtool_completion.md) - 为指定的 shell 生成自动补全脚本
-*   [mkvtool create](mkvtool_create.md) - 创建 mkv 文件
-*   [mkvtool dump](mkvtool_dump.md) - 转储 mkv 文件
-*   [mkvtool info](mkvtool_info.md) - 显示字体信息
-*   [mkvtool list](mkvtool_list.md) - 显示字体列表
-*   [mkvtool make](mkvtool_make.md) - 制作 mkv 文件
-*   [mkvtool query](mkvtool_query.md) - 查询项目的文件夹
-*   [mkvtool subset](mkvtool_subset.md) - 执行 ass 字体子集
-*   [mkvtool version](mkvtool_version.md) - 显示应用程序版本
+*   [mkvtool cache](mkvtool_cache-zh-CN-translation.md) - 创建字体缓存
+*   [mkvtool completion](mkvtool_completion-zh-CN-translation.md) - 为指定的 shell 生成自动补全脚本
+*   [mkvtool create](mkvtool_create-zh-CN-translation.md) - 创建 mkv 文件
+*   [mkvtool dump](mkvtool_dump-zh-CN-translation.md) - 转储 mkv 文件
+*   [mkvtool info](mkvtool_info-zh-CN-translation.md) - 显示字体信息
+*   [mkvtool list](mkvtool_list-zh-CN-translation.md) - 显示字体列表
+*   [mkvtool make](mkvtool_make-zh-CN-translation.md) - 制作 mkv 文件
+*   [mkvtool query](mkvtool_query-zh-CN-translation.md) - 查询项目的文件夹
+*   [mkvtool subset](mkvtool_subset-zh-CN-translation.md) - 执行 ass 字体子集
+*   [mkvtool version](mkvtool_version-zh-CN-translation.md) - 显示应用程序版本
 
 ###### 由 spf13/cobra 于 2024 年 6 月 16 日自动生成
 
