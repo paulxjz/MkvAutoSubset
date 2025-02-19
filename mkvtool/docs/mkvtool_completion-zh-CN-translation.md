@@ -27,11 +27,11 @@
 
 ###  另请参阅
 
-*   [mkvtool](mkvtool.md) - MKV 工具 - 管理 mkv 文件的多功能工具
-*   [mkvtool completion bash](mkvtool_completion_bash.md) - 生成 bash 的自动补全脚本
-*   [mkvtool completion fish](mkvtool_completion_fish.md) - 生成 fish 的自动完成脚本
-*   [mkvtool 完成 powershell](mkvtool_completion_powershell.md) - 生成 powershell 的自动完成脚本
-*   [mkvtool completion zsh](mkvtool_completion_zsh.md) - 为 zsh 生成自动补全脚本
+*   [mkvtool](mkvtool-zh-CN-translation.md) - MKV 工具 - 管理 mkv 文件的多功能工具
+*   [mkvtool completion bash](mkvtool_completion_bash-zh-CN-translation.md) - 生成 bash 的自动补全脚本
+*   [mkvtool completion fish](mkvtool_completion_fish-zh-CN-translation.md) - 生成 fish 的自动完成脚本
+*   [mkvtool 完成 powershell](mkvtool_completion_powershell-zh-CN-translation.md) - 生成 powershell 的自动完成脚本
+*   [mkvtool completion zsh](mkvtool_completion_zsh-zh-CN-translation.md) - 为 zsh 生成自动补全脚本
 
 ###### 由 spf13/cobra 于 2024 年 6 月 16 日自动生成
 
