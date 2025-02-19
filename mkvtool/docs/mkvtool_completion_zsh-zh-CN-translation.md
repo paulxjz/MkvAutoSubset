@@ -55,7 +55,7 @@
 
 ###  另请参阅
 
-*   [mkvtool completion](mkvtool_completion.md) - 为指定的 shell 生成自动补全脚本
+*   [mkvtool completion](mkvtool_completion-zh-CN-translation.md) - 为指定的 shell 生成自动补全脚本
 
 ###### 由 spf13/cobra 于 2024 年 6 月 16 日自动生成
 
